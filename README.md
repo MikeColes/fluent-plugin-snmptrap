@@ -10,7 +10,7 @@ fluent-plugin-snmptrap is an input plug-in for [Fluentd](http://fluentd.org)
 ## Installation
 
 These instructions assume you already have fluentd installed. 
-If you don't, please run through [quick start for fluentd] (https://github.com/fluent/fluentd#quick-start)
+If you don't, please run through [quick start for fluentd](https://github.com/fluent/fluentd#quick-start)
 
 Now after you have fluentd installed you can follow either of the steps below:
 
